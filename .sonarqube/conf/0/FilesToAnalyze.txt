@@ -1,0 +1,2 @@
+﻿C:\Users\Teazi\Desktop\ModernSoftwareApp\ModernSoftwareApp\Calculator.cs
+C:\Users\Teazi\Desktop\ModernSoftwareApp\ModernSoftwareApp\Program.cs
