@@ -1,0 +1,9 @@
+{
+  "settings": {
+    "documentationRules": {
+      "companyName": "Estiam",
+      "documentExposedElements": true,
+      "documentInternalElements": false
+    }
+  }
+}
